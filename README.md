@@ -1,3 +1,5 @@
-# 个人博客
+# 清羽博客
 
-[zu1k.com](https://zu1k.com)
+[blog.chingjyu.cyou](https://blog.chingjyu.cyou)
+
+感谢 @zu1k 提供模版。

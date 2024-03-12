@@ -1,8 +1,8 @@
-baseURL = "https://zu1k.com/"
+baseURL = "https://blog.chingjyu.cyou/"
 relativeURLs = true
 defaultContentLanguage = "zh-cn"
 theme = "LoveIt"
-title = "zu1k"
+title = "清羽博客"
 
 disableHugoGeneratorInject = true
 enableRobotsTXT = true
@@ -31,16 +31,6 @@ LanguageCode = "zh-CN"
     url = "/tags/"
     weight = 3
   [[menu.main]]
-    identifier = "projects"
-    name = "项目"
-    url = "/projects/"
-    weight = 4
-  [[menu.main]]
-    identifier = "links"
-    name = "项目"
-    url = "/project/"
-    weight = 4
-  [[menu.main]]
     identifier = "links"
     name = "友链"
     url = "/links/"
@@ -59,23 +49,23 @@ LanguageCode = "zh-CN"
   [[menu.main]]
     identifier = "github"
     pre = "<i class='icon-github'></i>"
-    url = "https://github.com/zu1k"
+    url = "https://github.com/cv2wx"
     title = "GitHub"
     weight = 20
 
 [params]
   defaultTheme = "auto"  # 网站默认主题 ("light", "dark", "auto")
-  gitRepo = "https://github.com/zu1k/blog"
+  gitRepo = "https://github.com/cv2wx/blog"
   dateFormat = "2006-01-02"
   images = ["/images/logo.jpg"]
-  description = "A boy dreaming of traveling around the world.<br>This blog is used to record my study, thinking and life."
-  keywords = ["zu1k", "zuik", "zu1k.com", "网络安全", "思考", "逆向"]
-  author = "zu1k"
+  description = "The heart beating for freedom will never stop.<br>This blog is used to record my study, thinking and life."
+  keywords = ["清羽", "思考"]
+  author = "清羽Victor"
   webmanifest = "/site.webmanifest"
   swjs = "/sw.js"
 
   [params.app]
-    title = "zu1k"
+    title = "清羽博客"
     noFavicon = false
     svgFavicon = ""
     themeColor = "#ffffff"
@@ -105,17 +95,16 @@ LanguageCode = "zh-CN"
     rss = 20  # RSS 文章数目
     [params.home.profile]
       avatarURL = "assets/images/logo.jpg"
-      altLogoURL = "https://zu1k.com/images/logo.jpg"
-      title = "zu1k"
-      subtitle = "A boy dreaming of traveling around the world."
+      altLogoURL = "https://blog.chingjyu.cyou/images/logo.jpg"
+      title = "清羽博客"
+      subtitle = "The heart beating for freedom will never stop."
     [params.home.posts]
       paginate = 2
   [params.social]
-    GitHub = "zu1k"
-    Twitter = "zu1k_"
-    Telegram = "peekfun"
-    Mastodon = "https://fosstodon.org/@zu1k"
-    Email = "i@zu1k.com"
+    GitHub = "cv2wx"
+    Twitter = "chingjyu_chan"
+    Mastodon = "https://mastodon.social/@chingjyu_chan"
+    Email = "i@chingjyu.cyou"
 
   [params.header]
     desktopMode = "fixed"   # 桌面端导航栏模式 ("fixed", "normal", "auto")
@@ -123,7 +112,7 @@ LanguageCode = "zh-CN"
     # 页面头部导航栏标题配置
     [params.header.title]
       logo = "" # LOGO 的 URL
-      name = "zu1k" # 标题名称
+      name = "清羽博客" # 标题名称
       pre = "" # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标  #"<i class='far fa-kiss-wink-heart fa-fw'></i>"  
       post = ""  # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
 
@@ -134,7 +123,7 @@ LanguageCode = "zh-CN"
     hugo = false  # 是否显示 Hugo 和主题信息
     copyright = true  # 是否显示版权信息
     author = true  # 是否显示作者
-    since = 2017 # 网站创立年份
+    since = 2024 # 网站创立年份
     icp = "" # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
     # 许可协议信息 (支持 HTML 格式)
     license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
@@ -182,14 +171,14 @@ LanguageCode = "zh-CN"
       images = ["/images/logo.jpg"]
       # 出版者信息
       [params.page.seo.publisher]
-        name = "zu1k"
-        logoUrl = "https://zu1k.com/images/logo.jpg"
+        name = "chingjyu"
+        logoUrl = "https://blog.chingjyu.cyou/images/logo.jpg"
 
   [params.comment]
       enable = true
       [params.comment.giscus]
         enable = true
-        repo = "zu1k/blog"
+        repo = "cv2wx/blog"
         repoId = "MDEwOlJlcG9zaXRvcnkzMDExMDQ1OTU="
         category = "Comments"
         categoryId = "DIC_kwDOEfJ9084CA02V"
@@ -226,9 +215,9 @@ LanguageCode = "zh-CN"
     endLevel = 6
 
 [author]
-  name = "zu1k"
-  email = "i@zu1k.com"
-  link = "https://zu1k.com"
+  name = "chingjyu"
+  email = "i@chingjyu.cyou"
+  link = "https://blog.chingjyu.cyou"
 
 [sitemap]
   changefreq = "always"

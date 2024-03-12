@@ -11,7 +11,7 @@ layout: links
 
 ## 本站信息
 
-- Name: zu1k
-- BIO: A boy dreaming of traveling around the world.
-- URL: https://zu1k.com
-- Logo: https://zu1k.com/images/logo.jpg
+- Name: 清羽博客
+- BIO: The heart beating for freedom will never stop
+- URL: blog.chingjyu.cyou
+- Logo: https://blog.chingjyu.cyou/images/logo.jpg
