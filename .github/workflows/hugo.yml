@@ -1,9 +1,10 @@
 name: hugo
 
 on:
+  workflow_dispatch: 
   push:
-    branches:
-      - master
+      branches:
+        - master
 
 jobs:
   deploy:
