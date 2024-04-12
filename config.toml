@@ -104,7 +104,10 @@ LanguageCode = "zh-CN"
     GitHub = "cv2wx"
     Twitter = "chingjyu_chan"
     Mastodon = "https://mastodon.social/@chingjyu_chan"
+    YoutubeChannel = "UCjdnCUI5PRcutl0uEawe0tQ"
     Email = "i@chingjyu.cyou"
+    Bilibili = "642473841"
+    Rss = "/index.xml"
 
   [params.header]
     desktopMode = "fixed"   # 桌面端导航栏模式 ("fixed", "normal", "auto")
