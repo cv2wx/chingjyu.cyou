@@ -410,7 +410,8 @@ bilibili:
   Weight: 64
   Prefix: https://space.bilibili.com/
   Title: 哔哩哔哩
-  Icon: icon-twitch
+  Icon: 
+    class: icon-twitch
 
 # 064: RSS
 rss:
