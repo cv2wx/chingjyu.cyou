@@ -405,6 +405,13 @@ email:
   Icon:
     Class: icon-mail
 
+# 064: 哔哩哔哩
+bilibili:
+  Weight: 64
+  Prefix: https://space.bilibili.com/
+  Title: 哔哩哔哩
+  Icon: icon-twitch
+
 # 064: RSS
 rss:
   Weight: 64
