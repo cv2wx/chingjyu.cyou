@@ -4,3 +4,10 @@
   avatar = ""
   description = ""
   weight = 1
+
+[[blogroll]]
+  name = "红雨的小本本"
+  url = "https://blog.sumika.icu"
+  avatar = ""
+  description = "Press Forward With Indomitable Will."
+  weight = 2
