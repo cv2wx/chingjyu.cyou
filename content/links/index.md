@@ -13,5 +13,5 @@ layout: links
 
 - Name: 清羽博客
 - BIO: The heart beating for freedom will never stop
-- URL: blog.chingjyu.cyou
-- Logo: https://blog.chingjyu.cyou/images/logo.jpg
+- URL: https://chingjyu.cyou
+- Logo: https://chingjyu.cyou/images/logo.jpg
