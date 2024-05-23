@@ -1,8 +1,8 @@
-baseURL = "https://blog.chingjyu.cyou/"
+baseURL = "https://chingjyu.cyou/"
 relativeURLs = true
 defaultContentLanguage = "zh-cn"
 theme = "LoveIt"
-title = "清羽博客"
+title = "清音为羽"
 
 disableHugoGeneratorInject = true
 enableRobotsTXT = true
@@ -65,7 +65,7 @@ LanguageCode = "zh-CN"
   swjs = "/sw.js"
 
   [params.app]
-    title = "清羽博客"
+    title = "清音为羽"
     noFavicon = false
     svgFavicon = ""
     themeColor = "#ffffff"
@@ -96,7 +96,7 @@ LanguageCode = "zh-CN"
     [params.home.profile]
       avatarURL = "assets/images/logo.jpg"
       altLogoURL = "https://blog.chingjyu.cyou/images/logo.jpg"
-      title = "清羽博客"
+      title = "清音为羽"
       subtitle = "The heart beating for freedom will never stop."
     [params.home.posts]
       paginate = 2
@@ -115,7 +115,7 @@ LanguageCode = "zh-CN"
     # 页面头部导航栏标题配置
     [params.header.title]
       logo = "" # LOGO 的 URL
-      name = "清羽博客" # 标题名称
+      name = "清音为羽 # 标题名称
       pre = "" # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标  #"<i class='far fa-kiss-wink-heart fa-fw'></i>"  
       post = ""  # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
 
@@ -295,4 +295,4 @@ LanguageCode = "zh-CN"
 
 [services]
   [services.googleAnalytics]
-    ID = 'G-J44P41XVM9'
+    ID = ''
