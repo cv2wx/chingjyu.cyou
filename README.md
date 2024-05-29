@@ -1,5 +1,5 @@
 # 清羽博客
 
-[blog.chingjyu.cyou](https://blog.chingjyu.cyou)
+[chingjyu.cyou](https://blog.chingjyu.cyou)
 
-感谢 @zu1k 提供模版。
+感谢 [GitHub@zu1k](https://github.com/zu1k) 提供模版。

@@ -55,7 +55,7 @@ LanguageCode = "zh-CN"
 
 [params]
   defaultTheme = "auto"  # 网站默认主题 ("light", "dark", "auto")
-  gitRepo = "https://github.com/cv2wx/blog"
+  gitRepo = "https://github.com/cv2wx/chingjyu.cyou"
   dateFormat = "2006-01-02"
   images = ["/images/logo.jpg"]
   description = "The heart beating for freedom will never stop.<br>This blog is used to record my study, thinking and life."
@@ -95,7 +95,7 @@ LanguageCode = "zh-CN"
     rss = 20  # RSS 文章数目
     [params.home.profile]
       avatarURL = "assets/images/logo.jpg"
-      altLogoURL = "https://blog.chingjyu.cyou/images/logo.jpg"
+      altLogoURL = "https://chingjyu.cyou/images/logo.jpg"
       title = "清音为羽"
       subtitle = "The heart beating for freedom will never stop."
     [params.home.posts]
