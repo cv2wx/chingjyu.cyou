@@ -175,16 +175,16 @@ LanguageCode = "zh-CN"
       # 出版者信息
       [params.page.seo.publisher]
         name = "chingjyu"
-        logoUrl = "https://blog.chingjyu.cyou/images/logo.jpg"
+        logoUrl = "https://chingjyu.cyou/images/logo.jpg"
 
   [params.comment]
       enable = true
       [params.comment.giscus]
         enable = true
-        repo = "cv2wx/blog"
-        repoId = "MDEwOlJlcG9zaXRvcnkzMDExMDQ1OTU="
-        category = "Comments"
-        categoryId = "DIC_kwDOEfJ9084CA02V"
+        repo = "cv2wx/chingjyu.cyou"
+        repoId = "R_kgDOK5Fm7g"
+        category = "Show and tell"
+        categoryId = "DIC_kwDOK5Fm7s4Ce1I3"
         mapping = "og:title"
 
 
@@ -220,7 +220,7 @@ LanguageCode = "zh-CN"
 [author]
   name = "chingjyu"
   email = "i@chingjyu.cyou"
-  link = "https://blog.chingjyu.cyou"
+  link = "https://chingjyu.cyou"
 
 [sitemap]
   changefreq = "always"
