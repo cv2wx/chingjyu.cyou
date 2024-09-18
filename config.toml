@@ -95,7 +95,7 @@ LanguageCode = "zh-CN"
     rss = 20  # RSS 文章数目
     [params.home.profile]
       avatarURL = "assets/images/logo.jpg"
-      altLogoURL = "https://gcore-cdn.chingjyu.cyou/images/logo.jpg"
+      altLogoURL = "https://chingjyu.cyou/images/logo.jpg"
       title = "清音为羽"
       subtitle = "The heart beating for freedom will never stop."
     [params.home.posts]
