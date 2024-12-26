@@ -1,13 +1,7 @@
 ---
 title: Office Tool Plus 食用教程
 date: 2024-12-26T19:00:00+08:00
-categories:
-- tutorial
 description: about otp
-tags:
-- Microsoft Office
-- Office Tool Plus
-- KMS
 ---
 
 ## 下载 Office Tool Plus
