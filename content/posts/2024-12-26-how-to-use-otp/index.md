@@ -32,6 +32,8 @@ description: about otp
 
 现在回到“部署”页，点击“开始部署”，耐心等待下载好即可。
 
+***如果使用 LTSC 版，注意设置对应的更新通道（如 LTSC 2024 就选 Office 2024 企业长期版）！***
+
 ![部署页](deployment-page.png)
 
 下载完毕之后把“部署模式”改成“安装”。选择需要安装的“应用程序”（这里我选了 Access、Word、Excel、PowerPoint）然后点击“开始部署”。
