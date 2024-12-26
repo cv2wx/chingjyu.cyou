@@ -1,7 +1,7 @@
 {
-    "name": "zu1k",
-    "short_name": "zu1k",
-    "start_url": "https://zu1k.com/",
+    "name": "清羽Blog",
+    "short_name": "清音为羽",
+    "start_url": "https://chingjyu.cyou/",
     "icons": [{
         "src": "/android-chrome-192x192.png",
         "sizes": "192x192",

@@ -4,10 +4,3 @@
   avatar = "/friend-steve7811d.jpg"
   description = ""
   weight = 1
-
-[[blogroll]]
-  name = "红雨的小本本"
-  url = "https://blog.sumika.icu"
-  avatar = "/friend-sumika.jpg"
-  description = "Press Forward With Indomitable Will."
-  weight = 2
