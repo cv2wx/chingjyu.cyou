@@ -21,11 +21,6 @@ LanguageCode = "zh-CN"
     url = "/posts/"
     weight = 1
   [[menu.main]]
-    identifier = "categories"
-    name = "分类"
-    url = "/categories/"
-    weight = 2
-  [[menu.main]]
     identifier = "tags"
     name = "标签"
     url = "/tags/"
